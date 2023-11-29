@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @travisfriesen
+- 👋 Hi, I’m @travisfriesen.
 - 👀 I’m interested in expanding and practicing my skills.
-- 🌱 I’m currently learning at the University of Manitoba
-- - 💻 I have experience with Java, Javascript(Node.js, Express.js), HTML/CSS
-- 📫 How to reach me travis@travisfriesen.ca
+- 🌱 I’m currently learning at the University of Manitoba.
+- 💻 I have experience with Java, Javascript(Node.js, Express.js, Electron), HTML/CSS, MySQL.
+- 🖥️ Software I've used: Visual Studio Code, IntelliJ IDEA, Eclipse IDE, GitHub (Git), Trello.
+- 📫 How to reach me [travis@travisfriesen.ca](mailto:travis@travisfriesen.ca)
 
 Some current projects of mine are:
 - [travisfriesen.ca](https://travisfriesen.ca)
