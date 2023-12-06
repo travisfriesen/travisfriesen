@@ -9,6 +9,7 @@ Some current projects of mine are:
 - [travisfriesen.ca](https://travisfriesen.ca)
 - [travisfriesen.ca (code)](https://github.com/travisfriesen/travisfriesen-ca)
 - [Customer-API](https://github.com/travisfriesen/customer-api)
+- [Resume Creator](https://github.com/travisfriesen/resume)
 
 
 Some other places you can find my work:
