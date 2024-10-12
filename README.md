@@ -1,22 +1,17 @@
 - 👋 Hi, I’m @travisfriesen.
 - 👀 I’m interested in expanding and practicing my skills.
 - 🌱 I’m currently learning at the University of Manitoba.
-- 💻 I have experience with Java, Javascript(Node.js, Express.js, Electron), HTML/CSS, MySQL, Python.
+- 💻 I have experience with Java, Javascript/Typescript(Node.js, Next.js), HTML/CSS, MySQL, Python.
 - 🖥️ Software I've used: Visual Studio Code, IntelliJ IDEA, Eclipse IDE, Pycharm, GitHub (Git), Trello.
 - 📫 How to reach me [travis@travisfriesen.ca](mailto:travis@travisfriesen.ca)
 
 Some current projects of mine are:
-- [travisfriesen.ca](https://travisfriesen.ca)
-- [travisfriesen.ca (code)](https://github.com/travisfriesen/travisfriesen-ca)
-- [Customer-API](https://github.com/travisfriesen/customer-api)
-- [Resume Creator](https://github.com/travisfriesen/resume)
-- [Computer Science Student Association Webpage](https://github.com/umanitoba-cssa/cssa-website-react)
-
-
-Some other places you can find my work:
-- [github.com/Ukaye-dev](https://github.com/ukaye-dev)
-- [github.com/UkayeLive](https://github.com/UkayeLive/)
-- [github.com/section-five](https://github.com/section-five/)
+- [travisfriesen.ca](https://travisfriesen.ca) - My personal portfolio site.
+- [travisfriesen.ca (code)](https://github.com/travisfriesen/travisfriesen-ca) - The HTML/CSS behind my portfolio
+- [next.travisfriesen.ca](https://github.com/travisfriesen/next.travisfriesen.ca) - A new edition of my portfolio (Work In Progress)
+- [rubysmb.ca](https://rubysmb.ca) - Webpage for a Driving Range in Winnipeg Beach, MB
+- [UManitoba Computer Science Discord Bot](https://github.com/umanitoba-cssa/honkbot2) - Moderation and Verification bot for the CS Discord
+<!-- [Resume Creator](https://github.com/travisfriesen/resume)-->
 
 <!---
 travisfriesen/travisfriesen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
