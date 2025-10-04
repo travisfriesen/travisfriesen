@@ -11,7 +11,6 @@ Some current projects of mine are:
 - [CommitCV](https://commitcv.com)
 - [rubysmb.ca](https://rubysmb.ca) - Webpage for a Driving Range in Winnipeg Beach, MB
 - [UManitoba Computer Science Discord Bot](https://github.com/umanitoba-cssa/honkbot2) - Moderation and Verification bot for the CS Discord
-- 
 <!-- [Resume Creator](https://github.com/travisfriesen/resume)-->
 
 <!---
